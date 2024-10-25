@@ -55,6 +55,7 @@ Follow these instructions to set up and run the Quantum Mathematician project on
 - **TPTP Format**
 - **Vampire and similar tools**
 - **Lean**
+- **Egg**
 
 
 ### Installation
