@@ -101,9 +101,8 @@ pip install qsharp
 ## Contributing
 Contributions are welcome! If you'd like to contribute to Quantum Mathematician, please follow these steps:
 
-**Fork the Repository**
+**Fork the Repository & Create a Feature Branch**
 
-Create a Feature Branch
 ```
 git checkout -b feature/YourFeature
 ```
