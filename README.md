@@ -1,6 +1,6 @@
-# Quantum Mathematician
+# Quantum Mathematician (AI Agent)
 
-Quantum Mathematician is an innovative project that leverages the power of classical computing and quantum algorithms to solve complex mathematical problems related to directed graph generation and constraint satisfaction. By integrating Python's robust constraint-solving capabilities with the cutting-edge quantum operations provided by Q#, this project aims to explore hybrid computational approaches for large-scale optimization tasks.
+Quantum Mathematician leverages the power of classical computing and quantum algorithms to solve complex mathematical problems related to directed graph generation and constraint satisfaction. It does it by enabling everyone to create and deploy agents at scale.
 
 ## Table of Contents
 
