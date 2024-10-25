@@ -1,4 +1,4 @@
-# Quantum Mathematician (AI Agent)
+# Quantum Mathematician
 
 Quantum Mathematician leverages the power of classical computing and quantum algorithms to solve complex mathematical problems related to directed graph generation and constraint satisfaction. It does it by enabling everyone to create and deploy agents at scale.
 
