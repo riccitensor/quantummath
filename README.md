@@ -43,19 +43,19 @@ Follow these instructions to set up and run the Quantum Mathematician project on
 
 ### Prerequisites
 
-- **Python 3.7 or higher**
-- **Lean**
-- **Z3 SMT Solver**
-- **.NET SDK (for Q# development)**
-- **Q# Development Kit**
-- **qsharp Python Package**
+- Python 3.7 or higher
+- Lean
+- Z3 SMT Solver
+- .NET SDK (for Q# development)
+- Q# Development Kit
+- qsharp
 
 ### Integrations
 
-- **TPTP Format**
-- **Vampire and similar tools**
-- **Lean**
-- **Egg**
+- TPTP Format
+- Vampire and similar tools
+- Lean
+- Egg
 
 
 ### Installation
