@@ -121,9 +121,7 @@ git push origin feature/YourFeature
 
 **Open a Pull Request**
 
-```
 Ensure that your code follows the project's coding standards and includes appropriate documentation and tests.
-```
 
 ## License
 This project is licensed under the Apache License, Version 2.0.
