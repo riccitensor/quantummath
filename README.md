@@ -18,7 +18,6 @@ Quantum Mathematician leverages the power of classical computing and quantum alg
   - [5. Combine Results](#5-combine-results)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -97,3 +96,34 @@ Install the Q# tools by following the official Q# installation guide.
 ```
 pip install qsharp
 ```
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to Quantum Mathematician, please follow these steps:
+
+**Fork the Repository**
+
+Create a Feature Branch
+```
+git checkout -b feature/YourFeature
+```
+
+**Commit Your Changes**
+
+```
+git commit -m "Add Your Feature"
+```
+
+**Push to the Branch**
+
+```
+git push origin feature/YourFeature
+```
+
+**Open a Pull Request**
+
+```
+Ensure that your code follows the project's coding standards and includes appropriate documentation and tests.
+```
+
+## License
+This project is licensed under the MIT License.
