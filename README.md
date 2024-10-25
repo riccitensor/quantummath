@@ -28,8 +28,7 @@ Quantum Mathematician bridges the gap between classical constraint-solving techn
 
 - **Constraint Definition:** Utilize Python and Z3 to define and manage graph-related constraints.
 - **Quantum Optimization:** Identify and implement quantum-suitable subtasks to enhance computational efficiency.
-- **Hybrid Integration:** Seamlessly integrate classical and quantum components to construct optimal directed graphs.
-- **Scalable Solutions:** Designed to handle large-scale optimization problems by leveraging quantum computing capabilities.
+- **Agent Creation:** One can deploy curicculum learning or task-oriented agents. 
 
 ## Architecture
 
@@ -46,10 +45,18 @@ Follow these instructions to set up and run the Quantum Mathematician project on
 ### Prerequisites
 
 - **Python 3.7 or higher**
+- **Lean**
 - **Z3 SMT Solver**
 - **.NET SDK (for Q# development)**
 - **Q# Development Kit**
 - **qsharp Python Package**
+
+### Integrations
+
+- **TPTP Format**
+- **Vampire and similar tools**
+- **Lean**
+
 
 ### Installation
 
